@@ -1,0 +1,289 @@
+.make-design .title {
+    margin-bottom: 18px;
+}
+
+.make-design .text p {
+    margin-bottom: 10px;
+}
+
+.title-hidden {
+    display: none;
+}
+
+.make-design-jobs {
+    padding-top: 20px;
+}
+
+.make-design-jobs .jobs-carousel {
+    margin-bottom: 25px;
+}
+
+.make-design-info {
+    padding-top: 20px;
+    padding-bottom: 0;
+}
+
+.make-design-info .title .h3 {
+    margin-bottom: 10px;
+}
+
+.make-design-info .tabs-inner .tabs-title,
+.make-design-info .tabs-inner .tabs-title p,
+.make-design-info .tabs-inner .text p,
+.make-design-info .tabs-inner .text .btn {
+    margin-bottom: 5px;
+}
+
+.make-design-info .tabs-inner .text {
+    margin-bottom: 10px;
+}
+
+.make-design-info .primer-carousel {
+    margin-bottom: 23px;
+}
+
+.make-design-info .material-info {
+    margin-bottom: 20px;
+}
+
+.make-design-info .tabs-content {
+    padding-top: 20px;
+}
+
+#tab1 p {
+    font-size: 0.875em;
+    line-height: 1.71429em;
+    color: #595959;
+    margin-bottom: 20px;
+}
+
+#tab3 li {
+    font-size: 0.875em;
+    /*padding-top: 15px;*/
+    line-height: 30px;
+    color: #595959;
+}
+
+@media all and (max-width: 768px) {
+    .make-design-pic {
+        margin-bottom: 15px;
+    }
+    .make-design-jobs .title {
+        margin-bottom: 20px;
+    }
+    #tab3 li {
+        font-size: 0.860em;
+    }
+    #tab2 .tabs-title {
+        margin-bottom: 10px;
+    }
+    .make-design-info {
+        padding-bottom: 0;
+    }
+    .make-design-info .tabs-inner .text p {
+        margin-bottom: 10px;
+    }
+    .make-design-info .tabs-inner .text .btn {
+        margin-bottom: 10px;
+    }
+    .make-design-info .tabs-inner .alert {
+        padding: 10px 20px !important;
+        margin-left: -10px;
+        margin-right: -10px;
+        opacity: 0;
+    }
+    .make-design-gift {
+        padding: 10px 3px;
+    }
+    .make-design-gift .title {
+        padding-bottom: 20px;
+        margin-bottom: 19px;
+    }
+    .make-design-gift .info {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .make-design-gift .info .btn {
+        margin-left: 11%;
+        margin-bottom: 10px;
+        margin-top: -11px;
+    }
+    .make-design-gift .info .notice {
+        text-align: center;
+    }
+    .make-design-gift .subtitle {
+        margin-bottom: 15px;
+    }
+    .make-design-info .primer-carousel li {
+        text-align: center;
+    }
+}
+
+#tab3 ul {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.jobs-carousel .caroufredsel_wrapper {
+    height: 550px !important;
+    min-height: 550px !important;
+}
+
+.make-design-jobs li {
+    /*min-height: 630px !important;*/
+    min-height: 555px !important;
+    padding-bottom: 0 !important;
+}
+
+.jobs-carousel_item-top {
+    margin-bottom: 20px;
+    display: block;
+    /* min-height: 206px;*/
+    min-height: 180px;
+    position: relative;
+}
+
+.jobs-carousel_item-bottom {
+    display: block;
+    /* min-height: 206px;*/
+    min-height: 180px;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.jobs-carousel_item-top img {
+    position: absolute;
+    bottom: 0;
+}
+
+.jobs-carousel_item-bottom img {
+    position: absolute;
+    bottom: 0;
+}
+
+@media (min-width: 1200px) {
+    .make-design-jobs .jobs-carousel {
+        margin-bottom: 0;
+    }
+}
+
+.make-design-jobs li {
+    background: none;
+}
+
+.wrap-jobs-item {
+    background: url("/local/templates/v2/assets/images/jobs-item-bg.png") no-repeat 0 bottom;
+    padding-bottom: 24px;
+}
+
+.wrap-make-design-gift {
+    background: #f5f5f5;
+}
+
+@media all and (max-width: 650px) {
+    .jobs-carousel .caroufredsel_wrapper {
+        min-height: 522px !important;
+        height: 522px !important;
+    }
+    .make-design-jobs li {
+        min-height: 535px !important;
+    }
+    .wrap-jobs-item {
+        margin-bottom: 0;
+        background-position-x: 63%;
+    }
+    .jobs-carousel_item-top,
+    .jobs-carousel_item-bottom {
+        min-height: 200px;
+    }
+    .jobs-carousel_item-top img,
+    .jobs-carousel_item-bottom img {
+        left: 15%;
+    }
+    .make-design-jobs .jobs-carousel .next {
+        right: 47%;
+    }
+    .make-design-jobs .jobs-carousel .prev {
+        left: 52%;
+    }
+}
+
+@media (max-width: 767px) {
+    .h1,
+    h1 {
+        font-size: 20px !important;
+        margin: 0 0 15px;
+    }
+}
+
+.make-design-jobs li img {
+    max-width: 76%;
+}
+
+.soc-list {
+    margin-bottom: 10px;
+}
+
+.footer-top-content .center-block .paysys img {
+    margin-bottom: 5px;
+}
+
+.make-design-info .tabs-inner .alert {
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.order-form-block a.SDEK_selectPVZ {
+    color: green;
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+.sale-label.set {
+    background-image: url(/local/templates/mobilev2/public/images/labels/label--sale2.png);
+}
+
+.p404_inner {
+    margin: 0 auto;
+    width: fit-content;
+    position: relative;
+}
+
+.p404 {
+    overflow: hidden;
+}
+
+.p404__text {
+    position: absolute;
+    width: 170px;
+    height: 100px;
+    text-align: center;
+    top: 65px;
+    left: 152px;
+    font-weight: bold;
+    font-size: 1.1rem;
+    line-height: 1.2rem;
+}
+
+.p404__text a {
+    color: #EF3838;
+}
+
+.current-discount-2 {
+    background: #ef3838;
+    padding: 0px 20px 0px 20px;
+    border: 1px solid #ef3838;
+    position: relative;
+    line-height: 80px;
+}
+
+.sum-order {
+    margin-bottom: 0;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 1em;
+    line-height: 1.28571em;
+    color: #ffffff;
+    text-align: center;
+}

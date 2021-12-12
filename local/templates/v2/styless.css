@@ -1,0 +1,48 @@
+.filter-banners img {
+    margin-bottom: 20px;
+    display: block;
+}
+
+.h1-design {
+    font-size: 1em;
+    padding: 0;
+    margin: 0;
+}
+
+.news-detail .first-p-in-news {
+    font-size: 1.875em;
+    text-align: left;
+    margin-bottom: 30px;
+    line-height: 1;
+}
+
+.map-wrapper .map-level-1 {
+    padding: 10px 20px 0 20px;
+}
+
+.map-wrapper .map-level-2 {
+    padding: 10px 20px 0 20px;
+}
+
+.map-wrapper .map-level-3 {
+    padding: 10px 20px 0 20px;
+}
+
+.map-level-1 li {}
+
+.map-wrapper {}
+
+.map-wrapper a {
+    text-decoration: none;
+    color: #323232;
+}
+
+.map-wrapper li {
+    margin-bottom: 10px;
+}
+
+/*.map-level-0{
+	display: flex;
+	justify-content: space-around;
+	flex-flow: row wrap;
+}*/
